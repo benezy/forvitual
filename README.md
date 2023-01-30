@@ -1,2 +1,2 @@
 # pythonExperiance
-different pytons projects
+different python projects and flutter apps
